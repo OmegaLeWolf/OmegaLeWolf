@@ -20,6 +20,7 @@
   <img align="center" alt="Omega-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Omega-Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
   <img align="center" alt="Omega-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Omega-Arch" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arch/arch-original.svg">
   <img align="right" alt="Omega-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/778340333485293622/1033119655310663710/yeet.png">
 </div> 
  
