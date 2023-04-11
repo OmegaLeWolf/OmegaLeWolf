@@ -19,6 +19,7 @@
   <img align="center" alt="Omega-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Omega-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Omega-Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
+  <img align="center" alt="Omega-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="right" alt="Omega-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/778340333485293622/1033119655310663710/yeet.png">
 </div> 
  
@@ -36,10 +37,8 @@
   <h4>
       Heyo! I'm Omega! I'm a Software Engineering student in the Algarve, Portugal. I'm interested primarily in software engineering and game development, but I tend to branch out to other things too such as Web development and Graphic Design.</h4>
       
-  <h4>I'm currently learning C#, GDScript, the Godot Engine and Frontend and backend web development.</h4>
+  <h4>I'm currently learning C, BASH, CLI, Penetration Testing and Frontend / backend web development.</h4>
       
-  <h4>I have my own discord server where I'll post random snippets of code for no apparent reason and I have a discord bot you can interact with over there too! Not just that, if you want to contact me you can by joining that server or messaging me privately. My discord is Omega#8865. </h4>
-  <h3>discord.gg/SxggJMk9bH</h3>
 
   </h4>
 </div>  
