@@ -35,9 +35,9 @@
     <br> Heyo! <br>
   </h3>
   <h4>
-      Heyo! I'm Omega! I'm a Software Engineering student in the Algarve, Portugal. I'm interested primarily in software engineering and game development, but I tend to branch out to other things too such as Web development and Graphic Design.</h4>
+      Heyo! I'm Omega! I'm a Software Engineering student in the Algarve, Portugal. I'm interested primarily in software engineering and game development.</h4>
       
-  <h4>I'm currently learning C, BASH, CLI, Penetration Testing and Frontend / backend web development.</h4>
+  <h4>I'm currently learning C, BASH, CLI, Sysadmin related things and Penetration Testing</h4>
       
 
   </h4>
