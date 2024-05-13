@@ -35,7 +35,7 @@
     <br> Heyo! <br>
   </h3>
   <h4>
-      Heyo! I'm Omega! I'm a Software Engineering student in the Algarve, Portugal. I'm interested primarily in software engineering and game development.</h4>
+      Heyo! I'm Omega! I'm a Software Engineering student in the Algarve, Portugal. I'm interested primarily in software engineering, hardware and operating systems.</h4>
       
   <h4>I'm currently learning C, BASH, CLI, Sysadmin related things and Penetration Testing</h4>
       
